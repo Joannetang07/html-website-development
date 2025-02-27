@@ -12,7 +12,7 @@ This project is a fully responsive and interactive website developed using **HTM
 🕒 Completed in **3 weeks**
 
 ## 📸 Preview
-![Project GIF]([https://raw.githubusercontent.com/your-username/your-repo/main/your-image.gif](https://github.com/Joannetang07/html-website-development/blob/main/websitePreview.gif?raw=true))
+![Project GIF](https://github.com/Joannetang07/html-website-development/blob/main/websitePreview.gif?raw=true)
 
 ## 🚀 Features
 - Fully responsive design
