@@ -12,8 +12,7 @@ This project is a fully responsive and interactive website developed using **HTM
 🕒 Completed in **3 weeks**
 
 ## 📸 Preview
-![Project Screenshot](https://your-image-link.com)  
-*(Replace the URL with your actual image link)*
+![Project GIF]([https://raw.githubusercontent.com/your-username/your-repo/main/your-image.gif](https://github.com/Joannetang07/html-website-development/blob/main/websitePreview.gif?raw=true))
 
 ## 🚀 Features
 - Fully responsive design
@@ -24,4 +23,4 @@ This project is a fully responsive and interactive website developed using **HTM
 ## 📂 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/joannetang07/html-website-development.git
